@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"message": "success", "iss_position": {"longitude": "6.2432", "latitude": "28.9240"}, "timestamp": 1679870329}
+=======
+{"message": "success", "iss_position": {"longitude": "6.2674", "latitude": "28.9011"}, "timestamp": 1679870329}
+>>>>>>> 9f792766aa23556c704d38471d15c54c02a761d5
